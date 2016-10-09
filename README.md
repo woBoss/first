@@ -7,8 +7,6 @@ this is my first Repository
 var a = jkjk;
 ```
 1. first
-2. second
-3. third
 
 ---
  - first
